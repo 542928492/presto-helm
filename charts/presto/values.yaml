@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 
 image:
-  repository: asifkazi/prestodb
+  repository: ahanaio/prestodb-sandbox
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart version.
   tag: latest
